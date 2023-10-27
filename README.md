@@ -1,13 +1,13 @@
 <h1 align="center">Hello world, I'm Juan</h1>
-<h3 align="center">A passionate ethical hacker from Argentina</h3>
+<h3 align="center">A passionate coder from Argentina</h3>
 
-- 🔭 I’m currently working on **developing my pentesting skills**
+- 🔭 I’m currently working on **developing my web dev skills**
 
-- 🌱 I’m currently learning **web hacking**
+- 🌱 I’m currently learning **JS**
 
 - 🤝 I’m looking for help with **getting a remote job**
 
-- 💬 Ask me about **linux, open source politics**
+- 💬 Ask me about **linux, open source**
 
 - 📫 How to reach me **agostino.jpa@gmail.com**
 
@@ -23,5 +23,5 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j-agostino&show_icons=true&locale=en&layout=compact" alt="j-agostino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-agostino&show_icons=true&locale=en" alt="j-agostino" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-agostino&show_icons=true&locale=en" alt="j-agostino" /></p> -->1
 
