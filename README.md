@@ -1,7 +1,7 @@
 <h1 align="center">Hello world, I'm Juan</h1>
 <h3 align="center">A passionate coder from Argentina | FrontEnd Trainee</h3>
 
-- 🔭 I’m currently working on **Web App for public transport**
+- 🔭 I’m currently working on **Web App for public transport** (BariMap)
 
 - 🌱 I’m currently learning **JS - Leaflet**
 
