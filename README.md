@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web App for public transport** (BariMap)
 
-- 🌱 I’m currently learning **JS - Leaflet**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **getting a remote job**
 
