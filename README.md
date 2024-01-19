@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **getting a remote job**
-
-- 💬 Ask me about **linux, open source**
+- 💬 Ask me about **linux, audio editing**
 
 - 📫 How to reach me **agostino.jpa@gmail.com**
 
